@@ -28,7 +28,7 @@ public class MainActivity extends ActionBarActivity {
             public void onClick(View v) {
                 if(v.getId()==R.id.btnModify)
                 {
-                    textView.setText("버튼이 눌렸습니다");
+                    textView.setText("버튼이 눌렸");
                 }
             }
          };
